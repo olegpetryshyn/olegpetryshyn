@@ -18,3 +18,6 @@ Focused on **RTL Design & Verification** (SystemVerilog, RISC-V, Verilator/cocot
 * **HDL & Verification:** SystemVerilog, Verilog, Verilator, cocotb, GTKWave
 * **Device & Circuit Simulation:** Verilog-A, OpenVAF, ngspice, SPICE, MATLAB
 * **Hardware & RF Lab:** Altium Designer, CST Studio Suite, NanoVNA, PCB bring-up & diagnostics
+
+### Linkedin profile
+[linkedin.com/in/oleg-petryshyn](https://linkedin.com/in/oleg-petryshyn)
