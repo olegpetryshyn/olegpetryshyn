@@ -1,16 +1,21 @@
-## Hi there 👋
+### M.Sc. Electronic Engineering @ UNIMORE — Microelectronics
 
-<!--
-**olegpetryshyn/olegpetryshyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on **RTL Design & Verification** (SystemVerilog, RISC-V, Verilator/cocotb), **Compact Modeling** (Verilog-A, OpenVAF, ngspice), and **Hardware/RF Characterization**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+| Area | Project | Stack & Tools | Description |
+| :--- | :--- | :--- | :--- |
+| **Digital & STCO** | [rv32i-stco-framework](https://github.com/olegpetryshyn/rv32i-stco-framework) | `SystemVerilog` `Verilator` `Python` `cocotb` | 32-bit single-cycle Harvard RISC-V core (RV32I) verified at 50 MHz and extended with a 4-cycle write-stall STT-MRAM memory model. |
+| **Compact Modeling** | [mtj_pma](https://github.com/olegpetryshyn/mtj_pma) | `Verilog-A` `OpenVAF` `ngspice` | 1D macrospin compact model of a perpendicular MTJ (p-MTJ) implementing LLGS dynamics, bias-dependent TMR, and anti-windup clamping. |
+| **RF & Antennas** | Dual-Band Planar Dipole | `CST Studio Suite` `NanoVNA` `MATLAB` | Design, EM simulation, and VNA experimental validation of an 800/1800 MHz dual-band planar dipole ($S_{11} = -18.6\text{ dB}$ and $-16.4\text{ dB}$). |
+| **PCB & Embedded** | Differential $\text{CO}_2$ Instrument | `Altium Designer` `ESP32-C6` `C` | Schematic capture and embedded hardware design for the IEEE IMS student contest. |
+
+---
+
+### Core Tools
+* **HDL & Verification:** SystemVerilog, Verilog, Verilator, cocotb, GTKWave
+* **Device & Circuit Simulation:** Verilog-A, OpenVAF, ngspice, SPICE, MATLAB
+* **Hardware & RF Lab:** Altium Designer, CST Studio Suite, NanoVNA, PCB bring-up & diagnostics
